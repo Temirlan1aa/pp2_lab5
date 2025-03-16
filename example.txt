@@ -1,0 +1,2 @@
+hello['qwerty', 'zxcvbn']['asdfg', 'hgwgn']
+['asdfg']
