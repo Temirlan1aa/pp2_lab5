@@ -1,0 +1,7 @@
+CREATE TABLE phonebook (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    phone VARCHAR(20) NOT NULL UNIQUE
+);
+
+CREATE
